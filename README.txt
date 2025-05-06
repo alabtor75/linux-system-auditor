@@ -1,4 +1,4 @@
-# Linux System Auditor v1.1
+# Linux System Auditor v1.1 By Soufianne Said NASSIBI 
 
 ![Bash](https://img.shields.io/badge/bash-5.x-blue.svg)
 ![License](https://img.shields.io/badge/license-GPLv3-green)
