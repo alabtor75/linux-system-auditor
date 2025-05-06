@@ -47,5 +47,5 @@ Le script repose uniquement sur des utilitaires systèmes standard :
 ```bash
 git clone https://github.com/<votre-utilisateur>/linux-system-auditor.git
 cd linux-system-auditor
-chmod +x auditor.sh
-./auditor.sh
+chmod +x linux-system-auditor.sh
+./linux-system-auditor.sh
