@@ -1,0 +1,20 @@
+# Linux Auditor - Git Ignore
+*.log
+*.bak
+*.tmp
+*.swp
+*.swo
+*.pid
+*.tar.gz
+*.zip
+*.tgz
+audit_report_*.txt
+*.csv
+*.json
+*.cache
+linux_auditor_report_*
+__pycache__/
+*.pyc
+*.pyo
+.env
+linux_auditor.config
